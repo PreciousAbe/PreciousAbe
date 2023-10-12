@@ -1,5 +1,4 @@
 <img align="center" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="precious" />
-
 <h1 align="center">Hi 👋, I'm Precious Abe</h1>
 <h3 align="center">A passionate frontend developer from Nigeria, I love to code and provide solutions to anything about the Web</h3>
 <img align="center" src="https://image.lexica.art/full_jpg/4f873e9e-57b4-4942-835d-4fdd80bd8184" alt="precious" />
