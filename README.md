@@ -55,39 +55,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=precious&show_icons=true&locale=en" alt="precious" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=precious&" alt="precious" /></p>
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Precious Abe</h1>
-<h3 align="center">A passionate frontend developer from Nigeria, I love to code and provide solutions to anything about the Web</h3>
-
-- 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 All of my projects are available at [https://polite-marshmallow-822af0.netlify.app/](https://polite-marshmallow-822af0.netlify.app/)
-
-- 💬 Ask me about **JavaScript and React**
-
-- 📫 How to reach me **precious.abe@yahoo.com**
-
-- ⚡ Fun fact **I think i'm sociable and adventurous**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/bemmyabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bemmyabe" height="30" width="40" /></a>
-<a href="https://twitter.com/bemm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bemm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/precious-abe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/precious-abe/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/preciousabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/preciousabe" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100080165694735&mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080165694735&mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://medium.com/@iyaboabe99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iyaboabe99" height="30" width="40" /></a>
-<a href="/https://polite-marshmallow-822af0.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://polite-marshmallow-822af0.netlify.app/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
