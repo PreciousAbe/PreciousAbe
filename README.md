@@ -11,7 +11,7 @@
   <li align="center" display="none">unwavering dedication to making the web a better place.</li>
 </ul>
 <p align="center">Let's connect and build the web together. Feel free to reach out for collaboration, insights, or just a chat about all things web-related. Together, we'll shape the digital world, one project at a time.</p>
-<img align="center" height="50%" src="https://image.lexica.art/full_jpg/4f873e9e-57b4-4942-835d-4fdd80bd8184" alt="precious" />
+<img align="center" height="100" width="100" src="https://image.lexica.art/full_jpg/4f873e9e-57b4-4942-835d-4fdd80bd8184" alt="precious" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=precious&label=Profile%20views&color=0e75b6&style=flat" alt="precious" /> </p>
 
