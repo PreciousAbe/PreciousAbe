@@ -6,9 +6,9 @@
 <p align="center">I find sheer joy in the art of coding and the boundless possibilities it offers. Whether it's designing stunning websites, optimising performance, or solving intricate web-related puzzles, I'm all in!</p>
 <h3 align="center">🌐 What can you expect from me?</h3>
 <ul>
-<li align="center" list-style="none">Create web development solutions that breathe life into your ideas.</li>
-  <li align="center" list-style="none">Clean, efficient code ensures your websites run smoothly.</li>
-  <li align="center" list-style="none">unwavering dedication to making the web a better place.</li>
+<li align="center" list-style-type="none">Create web development solutions that breathe life into your ideas.</li>
+  <li align="center" list-style-type="none">Clean, efficient code ensures your websites run smoothly.</li>
+  <li align="center" list-style-type="none">unwavering dedication to making the web a better place.</li>
 </ul>
 <p align="center">Let's connect and build the web together. Feel free to reach out for collaboration, insights, or just a chat about all things web-related. Together, we'll shape the digital world, one project at a time.</p>
 <p align="center">
