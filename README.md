@@ -15,9 +15,10 @@
 <img height="400" width="400" src="https://image.lexica.art/full_jpg/4f873e9e-57b4-4942-835d-4fdd80bd8184" alt="precious" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=precious&label=Profile%20views&color=0e75b6&style=flat" alt="precious" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=precious&label=Profile%20views&color=0e75b6&style=flat" alt="precious" /> </p>
 
 
+<p align="center"> <a href="https://twitter.com/bemm" target="blank"><img src="https://img.shields.io/twitter/follow/bemm?logo=twitter&style=for-the-badge" alt="bemm" /></a> </p>
 <p align="center"> <a href="https://twitter.com/bemm" target="blank"><img src="https://img.shields.io/twitter/follow/bemm?logo=twitter&style=for-the-badge" alt="bemm" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js**
